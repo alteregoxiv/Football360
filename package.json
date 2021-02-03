@@ -1,0 +1,24 @@
+{
+  "name": "pl360",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alteregoxiv/PL360.git"
+  },
+  "author": "Prasad Biswas & Gourish Sadhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alteregoxiv/PL360/issues"
+  },
+  "homepage": "https://github.com/alteregoxiv/PL360#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
